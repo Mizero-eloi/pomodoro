@@ -20,3 +20,24 @@ button {
   background-color: #c9ccea;
   border: 1px solid #0c0e1b;
 }
+
+.form-container {
+  text-align: center;
+}
+
+.input-wrapper {
+  margin: 1.5rem;
+}
+
+.input-wrapper input {
+  height: 30px;
+  width: 30px;
+  padding: 2rem;
+  background: #0c0e1b;
+  color: #c9ccea;
+  border: none;
+  border-radius: 50%;
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 14pt;
+}
